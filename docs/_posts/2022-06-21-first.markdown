@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "my first blog"
+date:   2022-06-21 11:21:45 -0700
+categories: jekyll update
+---
+
+John quit smoking and decided to improve his health by running marathon back in 2007.  Over the years, he has run more than 50 marathons with a personal best of 2:50. Through meditation from running, each day he appreciates life more deeply. He wants to help other runners to achieve their goals and reach their enlightenments (ah-ha moment of life) through distance running. 
+<img src="/pictures/mypic.jpeg" alt="drawing"  style="width:200px;"/> 
