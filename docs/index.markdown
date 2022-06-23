@@ -4,3 +4,7 @@
 
 layout: home
 ---
+<h1> To run or not run, there is no question.</h1>
+Welcome to this site and it is currently under construction.
+I am planning to blog my races here. 
+<p>The <a href="/about"> About </a> page has a very brief intro of me if you are interested.</p>
