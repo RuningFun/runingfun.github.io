@@ -4,12 +4,12 @@
 <title>LA Burn Long Run</title>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="https://unpkg.com/browse/leaflet/dist/leaflet.css" />
-<script src="https://unpkg.com/leaflet"></script>
- <script src="https://unpkg.com/jquery"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"></script>
+ <script src="https://unpkg.com/browse/jquery@3.6.1/dist/jquery.min.js"></script>
 </head>
 <body>
-<div id="map" style="width: 1000; height: 800;"></div>
+<div id="map" style="width: 100%; height: 100%;"></div>
 <script>
 var newMap = L.map('map').setView([ 34.06791,-118.05979], 13);
 L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
